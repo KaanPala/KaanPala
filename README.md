@@ -1,7 +1,7 @@
 <p><img alt="gif "align="right" src="https://media4.giphy.com/media/wGEymBvo6FUlR9bbda/giphy.gif" width="271.35849861" height="240" /></p>
 
-### Hi There, I am Kaan Pala. :sunglasses:
-## Python Developer | Learner
+## Hi There, I am Kaan Pala. :sunglasses:
+### Python Developer | Learner
 
 - 👀 I’m interested in Programming,Software
 - 🌱 I’m currently learning Python, Data science, AI
