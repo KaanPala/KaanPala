@@ -1,3 +1,5 @@
+<p><img alt="gif "align="right" src="https://media4.giphy.com/media/wGEymBvo6FUlR9bbda/giphy.gif" width="271.35849861" height="240" /></p>
+
 ### Hi There, I am Kaan Pala. :sunglasses:
 ## Python Developer | Learner
 
@@ -9,12 +11,12 @@
 ### Reach out me :
 
 
-[<img width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin]
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaan-pala-345a61200/" height="30" width="40" style="max-width: 100%;">][linked-in]
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="32" width="50" style="max-width: 100%;">][twitter]
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="32" width="50" style="max-width: 100%;">][instagram]
 
 
-[linkedin]:https://www.linkedin.com/in/kaan-pala-345a61200/
+[linked-in]:https://www.linkedin.com/in/kaan-pala-345a61200/
 [twitter]:https://twitter.com/KaanPal00484172
 [instagram]:https://www.instagram.com/kaanpala24/
 
