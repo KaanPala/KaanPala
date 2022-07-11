@@ -3,6 +3,9 @@
 
 - 👀 I’m interested in Programming,Software
 - 🌱 I’m currently learning Python, Data science, AI
+📫 How to reach me knpl2403@gmail.com
+
+
 
 
 
