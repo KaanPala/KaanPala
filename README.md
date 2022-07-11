@@ -1,4 +1,5 @@
-<img src="https://media4.giphy.com/media/wGEymBvo6FUlR9bbda/giphy.gif" width="250" width="200">
+<p><img align="right" src="https://media4.giphy.com/media/wGEymBvo6FUlR9bbda/giphy.gif" width="271.35849861" height="240" /></p>
+
 ### Hi There, I am Kaan Pala. :sunglasses:
 ## Python Developer | Learner
 
